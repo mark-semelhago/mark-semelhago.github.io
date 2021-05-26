@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Mark Semelhago
 
-You can use the [editor on GitHub](https://github.com/Mark725/mark725.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Mark Semelhago and I am currently a Research Scientist in the Inventory Planning & Control (IPC) Buying team at Amazon in New York. I graduated with a PhD in Industrial Engineering and Management Sciences in 2020 from Northwestern University where I was fortunate to be advised by Professors Barry L. Nelson, Andreas W &#228; chter and Eunhye Song. Prior to this, I graduated with a BASc in Engineering Science in 2015 from the University of Toronto where I was lucky to be advised by Professor Roy Kwon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For any inquiries, I can be reached at <a href = "mailto: Mark.Semelhago@u.northwestern.edu">Mark.Semelhago@u.northwestern.edu</a>.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mark725/mark725.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -4,6 +4,4 @@ My name is Mark Semelhago and I am currently a Research Scientist in the Invento
 
 For any inquiries, I can be reached at <a href = "mailto: Mark.Semelhago@u.northwestern.edu">Mark.Semelhago@u.northwestern.edu</a>.
 
-My LinkedIn profile can be viewed <a href = "mailto: https://www.linkedin.com/in/mark-semelhago/">here</a>
-
-
+My LinkedIn profile can be viewed <a href="https://www.linkedin.com/in/mark-semelhago/">here</a>.
